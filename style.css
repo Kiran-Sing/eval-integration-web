@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+}
+
+header {
+  background-color: #111111;
+  color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 40 px;
+  top: 0%;
+}
+
+h1 {
+  font-size: 20 px;
+  margin: 0%;
+}
+
+nav a {
+  color: ffffff;
+  margin-left: 15px;
+  font-size: 15px;
+  text-align: center;
+  display: inline-block;
+}/*# sourceMappingURL=style.css.map */
