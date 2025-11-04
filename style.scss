@@ -17,13 +17,21 @@ header {
  }
 
  header a{
+color: ffffff;
+text-decoration: none;
+ }
 
+ header nav a {
+    color: ffffff;
+    text-decoration: none;
+    justify-content: space-evenly;
+    margin-left: 15px;
+ }
+
+ #intro {
+    background-color: #ffffff;
+    text-align: center;
+    padding: 100px 20px;
  }
  
- nav a {
-    color: ffffff;
-    margin-left: 15px;
-    font-size: 15px;
-    text-align: center;
-    display: inline-block;
- }
+
