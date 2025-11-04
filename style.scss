@@ -10,22 +10,27 @@ header {
     align-items: center;
     padding: 15px 40 px;
     top: 0%;
+    font-family: Arial, Helvetica, sans-serif;
 }
  h1{
    font-size: 20 px;
    margin: 0%;
+   font-family: Arial, Helvetica, sans-serif;
  }
 
  header a{
 color: ffffff;
 text-decoration: none;
+font-family: Arial, Helvetica, sans-serif;
  }
 
  header nav a {
     color: ffffff;
     text-decoration: none;
-    justify-content: space-evenly;
-    margin-left: 15px;
+    justify-content:center;
+    list-style : none;
+    margin: 0;
+    padding :0;
  }
 
  #intro {
@@ -33,5 +38,12 @@ text-decoration: none;
     text-align: center;
     padding: 100px 20px;
  }
- 
+ .banniere{
+    width: 1500%;
+    height: 300%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+ }
 
